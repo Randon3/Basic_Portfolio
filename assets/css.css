@@ -1,0 +1,41 @@
+
+.header {
+        background-color: white;
+        margin: 0 auto;
+        width: 96%;
+	padding: 30px;
+        font-size: 30px;
+        color: white;
+}
+.logo {
+        float: left;
+        background-color: #4aaaa5;
+        margin-left: 60px;
+}
+
+h1 {
+    font-size: 25pt;
+    color: #4aaaa5;
+}
+
+.active {
+        float: right;
+        margin-right: 60px;
+}
+
+body {
+        background-color: lightgray;
+}
+
+src img {
+    float: left;
+}
+
+.container {
+        width: 700px;
+        margin: 0 auto;
+}
+
+p {
+        float: right;
+}
