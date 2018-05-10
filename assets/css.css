@@ -11,8 +11,11 @@
 .logo {
         float: left;
         background-color: #4aaaa5;
-        margin-left: 113px;
+        top: 0%;
+        height: 75px;
         position: absolute;
+        margin-left: 113px;
+        text-align: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -77,31 +80,31 @@ img {
         font-size: 18pt;
         font-family: Arial, Helvetica, sans-serif;
 }
-.pic1 {
+.project1 {
         position: absolute;
         padding: 40px;
         left: 33%;
         top: 30%;
 }
-.pic2 {
+.project2 {
         position: absolute;
         padding: 40px;
         left: 50%;
         top: 30%;
 }
-.pic3 {
+.project3 {
         position: absolute;
         padding: 40px;
         left: 33%;
         top: 60%;
 }
-.pic4 {
+.project4 {
         position: absolute;
         padding: 40px;
         left: 50%;
         top: 60%;
 }
-.pic5 {
+.project5 {
         position: absolute;
         padding: 40px;
         left: 33%;
@@ -136,4 +139,17 @@ input[type=submit] {
     text-decoration: none;
     margin: 4px 2px;
     cursor: pointer;
+}
+.project {
+        position: relative;
+        width: 150px;
+
+}
+.project a {
+        position: absolute;
+        left: 0%;
+        top: 100px;
+        background-color: gray;
+        width: 100%;
+
 }
