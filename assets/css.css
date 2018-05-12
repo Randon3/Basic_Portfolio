@@ -82,31 +82,26 @@ img {
 }
 .project1 {
         position: absolute;
-        padding: 40px;
         left: 33%;
         top: 30%;
 }
 .project2 {
         position: absolute;
-        padding: 40px;
         left: 50%;
         top: 30%;
 }
 .project3 {
         position: absolute;
-        padding: 40px;
         left: 33%;
         top: 60%;
 }
 .project4 {
         position: absolute;
-        padding: 40px;
         left: 50%;
         top: 60%;
 }
 .project5 {
         position: absolute;
-        padding: 40px;
         left: 33%;
         top: 90%;
 }
@@ -152,4 +147,13 @@ input[type=submit] {
         background-color: gray;
         width: 100%;
 
+}
+
+.imagelabel {
+        position: absolute;
+        top: 75%;
+        left: 0;
+        color: white;
+        background-color: #4aaaa5;
+        font-size: 10pt;
 }
